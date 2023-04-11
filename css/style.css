@@ -429,3 +429,16 @@ label {
 .container-fluid {
 	margin-top: 59px;
 }
+.banner-text h1 {
+	font-size: 60px;
+	color: #fff;
+	font-weight: bold;
+	/* line-height: auto; */
+}
+.banner-text h1 {
+	font-size: 60px;
+	color: #fff;
+	font-weight: bold;
+	/* line-height: auto; */
+	margin-bottom: 45px;
+}
