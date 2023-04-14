@@ -243,18 +243,32 @@ label {
 /* button style */
 
 .my-btn {
-	background: #fbba42;
-	border-color: #fbba42;
+	background: #fb414e;
+	border: 2px solid #fb414e;
 	cursor: pointer;
 	display: inline-block;
-	font-size: 15px;
+	font-size: 16px;
 	font-weight: 500;
 	line-height: 1;
-	padding: 10px 17px;
+	padding: 16px 55px;
 	text-align: center;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	transition: all 0.3s ease 0s;
-	color: #000;
+	color: #fff;
+}
+.my-btn-2 {
+    background: transparent;
+    border: 2px solid #fb414e;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1;
+    padding: 16px 45px;
+    text-align: center;
+    /* text-transform: uppercase; */
+    transition: all 0.3s ease 0s;
+    color: #fff;
 }
 .newsletter-btn {
 	background: #fbba42;
@@ -295,7 +309,11 @@ label {
 }
 
 .my-btn:hover {
-	background: #2f3440;
+	background: #fb414e;
+	color: #fff;
+}
+.my-btn-2:hover {
+	background: #fb414e;
 	color: #fff;
 }
 
@@ -414,9 +432,7 @@ label {
 #header{background-image: url(../img/slider.png);}
 
 .navbar-collapse {
-	flex-basis: 100%;
 	flex-grow: 0;
-	align-items: center;
 }
 .menu ul li {
 	margin: 0 19px;
@@ -427,7 +443,7 @@ label {
 	font-weight: 400;
 }
 .container-fluid {
-	margin-top: 59px;
+    margin-top: 50px;
 }
 .banner-text h1 {
 	font-size: 60px;
@@ -443,7 +459,35 @@ label {
 	margin-bottom: 45px;
 }
 .banner-text p {
-	color: #fff;
-	font-size: 16px;
-	margin-bottom: 45px;
+    color: #d2d2d4;
+    font-size: 16px;
+    margin-bottom: 45px;
 }
+/* #header {
+    position: relative;
+}
+.top-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+	background-color: rgba(0,0,0,0.5);
+	width: 100%;
+	height: 100%;
+} */
+
+
+/* serviceShort */
+
+.service-item {
+	background: #fb414e;
+	/* color: #fff; */
+	padding: 70px 60px;
+}
+.service-item h5 {
+	font-size: 20px;
+	color: #fff;
+	padding-top: 50px;
+	/* padding-bottom: 54px; */
+}                   
