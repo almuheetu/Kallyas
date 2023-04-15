@@ -466,13 +466,11 @@ label {
 	font-size: 60px;
 	color: #fff;
 	font-weight: bold;
-	/* line-height: auto; */
 }
 .banner-text h1 {
 	font-size: 60px;
 	color: #fff;
 	font-weight: bold;
-	/* line-height: auto; */
 	margin-bottom: 45px;
 }
 .banner-text p {
@@ -524,6 +522,7 @@ label {
 .item {
 	background-color: #202b30;
 }
+
 /* businessPlan-area */
 .businessPlan{
 	margin:60px;
@@ -531,9 +530,6 @@ label {
 }
 .businessPlan-area{
 	padding: 100px 0;
-}
-.businessPlanContent{
-	/* padding-right: 30px; */
 }
 .businessPlanContent h2 {
 	color: #fff;
@@ -546,3 +542,22 @@ label {
 .image {
 	text-align: end;
 }
+
+/* service-area */
+
+.service{
+	margin: 50px 60px 50px 60px;
+	background-color: #f8f8f8;
+	padding: 120px 0;
+}
+.content h6 {
+	font-size: 20px;
+	color: #1f1f1f;
+	font-weight: 500;
+  }
+  .content p {
+	color: #838383;
+  }
+  .serLeft1{
+	margin-bottom: 50px;
+  }
