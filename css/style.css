@@ -330,7 +330,10 @@ label {
 	background: #fb414e;
 	color: #fff;
 }
-
+.my-btn-3:hover {
+	background: #fb414e;
+	color: #fff;
+}
 .my-btn-black {
 	background: #2f3440;
 	border-radius: 30px;
@@ -525,4 +528,21 @@ label {
 .businessPlan{
 	margin:60px;
 	background-color: #202b30;
+}
+.businessPlan-area{
+	padding: 100px 0;
+}
+.businessPlanContent{
+	/* padding-right: 30px; */
+}
+.businessPlanContent h2 {
+	color: #fff;
+	font-size: 42px;
+}
+.businessPlanContent p {
+	color: #e1e3e3;
+	margin: 45px 0;
+}
+.image {
+	text-align: end;
 }
