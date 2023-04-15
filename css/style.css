@@ -561,3 +561,13 @@ label {
   .serLeft1{
 	margin-bottom: 50px;
   }
+  .serRight h3 {
+	font-size: 43px;
+	line-height: 50px;
+	color: #1f1f1f;
+	font-weight: 700;
+	margin-bottom: 45px;
+}
+.tag {
+	margin-bottom: 25px;
+}
