@@ -284,6 +284,20 @@ label {
     transition: all 0.3s ease 0s;
     color: #fff;
 }
+.my-btn-4 {
+    background: transparent;
+    border: 2px solid #333;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1;
+    padding: 16px 45px;
+    text-align: center;
+    /* text-transform: uppercase; */
+    transition: all 0.3s ease 0s;
+    color: #333;
+}
 .newsletter-btn {
 	background: #fbba42;
 	border-color: #fbba42;
@@ -333,6 +347,10 @@ label {
 .my-btn-3:hover {
 	background: #fb414e;
 	color: #fff;
+}
+.my-btn-4:hover {
+	background: #fb414e;
+	color: #333;
 }
 .my-btn-black {
 	background: #2f3440;
@@ -593,3 +611,5 @@ label {
 .image-area img {
 	margin-bottom: 15px;
 }
+
+/* clients */
