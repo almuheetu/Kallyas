@@ -285,18 +285,19 @@ label {
     color: #fff;
 }
 .my-btn-4 {
-    background: transparent;
-    border: 2px solid #333;
-    cursor: pointer;
-    display: inline-block;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1;
-    padding: 16px 45px;
-    text-align: center;
-    /* text-transform: uppercase; */
-    transition: all 0.3s ease 0s;
-    color: #333;
+	background: transparent;
+	border: 2px solid #333;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 1;
+	padding: 16px 45px;
+	text-align: center;
+	/* text-transform: uppercase; */
+	transition: all 0.3s ease 0s;
+	color: #333;
+	margin-top: 20px;
 }
 .newsletter-btn {
 	background: #fbba42;
@@ -613,3 +614,14 @@ label {
 }
 
 /* clients */
+
+.clients{
+	margin: 50px 0px;
+}
+.clientsLeft h2 {
+	font-size: 43px;
+	font-weight: 700;
+}
+.clientsLeft p {
+	margin: 33px 0px;
+}
