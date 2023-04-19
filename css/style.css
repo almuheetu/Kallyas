@@ -645,3 +645,18 @@ label {
 .handcarftBottom h5{
 	margin: 15px 0px;
 }
+
+/* contact */
+
+.contactContent {
+	text-align: right;
+	padding-left: 119px;
+}
+.contactContent h2 {
+	font-size: 48px;
+	margin-bottom: 35px;
+	font-weight: bold;
+}
+.contactContent p {
+	margin: 35px 0px;
+}
