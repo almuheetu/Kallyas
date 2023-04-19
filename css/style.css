@@ -647,7 +647,9 @@ label {
 }
 
 /* contact */
-
+.contact{
+	margin: 100px 60px 50px 60px;
+}
 .contactContent {
 	text-align: right;
 	padding-left: 119px;
@@ -660,3 +662,18 @@ label {
 .contactContent p {
 	margin: 35px 0px;
 }
+
+.contactForm input{
+	border-radius: 0;
+	border-color: #000;
+}
+.contactForm select {
+	border-radius: 0;
+	border-color: #000;
+	display: block;
+}
+.contactForm textarea{
+	border-radius: 0;
+	border-color: #000;
+}
+
