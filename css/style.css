@@ -652,7 +652,8 @@ label {
 }
 .contactContent {
 	text-align: right;
-	padding-left: 119px;
+	padding-left: 20px;
+	margin-right: 90px;
 }
 .contactContent h2 {
 	font-size: 48px;
