@@ -625,3 +625,15 @@ label {
 .clientsLeft p {
 	margin: 33px 0px;
 }
+
+
+/* Handcraft section */
+
+
+.handcraft{
+	margin: 100px 60px 50px 60px;
+}
+.handcarftTop h2 {
+	font-size: 48px;
+	color: #1f1f1f;
+}
