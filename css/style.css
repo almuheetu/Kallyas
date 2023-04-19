@@ -632,8 +632,16 @@ label {
 
 .handcraft{
 	margin: 100px 60px 50px 60px;
+	background-image: url(../img/Assignment.png);
+	padding: 100px 0px;
 }
 .handcarftTop h2 {
 	font-size: 48px;
 	color: #1f1f1f;
+}
+.handcarftTop p {
+	margin: 30px 0px;
+}
+.handcarftBottom h5{
+	margin: 15px 0px;
 }
