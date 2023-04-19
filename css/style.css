@@ -677,3 +677,56 @@ label {
 	border-color: #000;
 }
 
+/* .form-select {
+	display: block !important;
+} */
+.nice-select::after {
+	border-bottom: 2px solid #999;
+	border-right: 2px solid #999;
+	content: '';
+	display: none;
+	height: 5px;
+	margin-top: -4px;
+	pointer-events: none;
+	position: absolute;
+	right: 12px;
+	top: 50%;
+	-webkit-transform-origin: 66% 66%;
+	-ms-transform-origin: 66% 66%;
+	transform-origin: 66% 66%;
+	-webkit-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	transform: rotate(45deg);
+	-webkit-transition: all 0.15s ease-in-out;
+	transition: all 0.15s ease-in-out;
+	width: 5px;
+}
+.nice-select {
+	-webkit-tap-highlight-color: transparent;
+	background-color: #fff;
+	border-radius: 0;
+	border: solid 1px #000;
+	box-sizing: border-box;
+	clear: both;
+	cursor: pointer;
+	display: block;
+	float: left;
+	font-family: inherit;
+	font-size: 14px;
+	font-weight: normal;
+	height: 42px;
+	line-height: 28px;
+	outline: none;
+	padding-left: 18px;
+	padding-right: 30px;
+	position: relative;
+	text-align: left !important;
+	-webkit-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	white-space: nowrap;
+	width: 100%;
+}
