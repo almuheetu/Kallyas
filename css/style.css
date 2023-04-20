@@ -360,6 +360,7 @@ label {
 .my-btn-4:hover {
 	background: #fb414e;
 	color: #333;
+	border-color: #fb414e;
 }
 
 .my-btn-black {
