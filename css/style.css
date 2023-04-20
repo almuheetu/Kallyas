@@ -657,16 +657,17 @@ label {
 }
 .contactContent h2 {
 	font-size: 48px;
-	margin-bottom: 35px;
+	margin-bottom: 30px;
 	font-weight: bold;
 }
 .contactContent p {
-	margin: 35px 0px;
+	margin: 30px 0px;
 }
 
-.contactForm input{
+.contactForm input {
 	border-radius: 0;
 	border-color: #000;
+	padding: 12px 20px;
 }
 .contactForm select {
 	border-radius: 0;
@@ -678,9 +679,6 @@ label {
 	border-color: #000;
 }
 
-/* .form-select {
-	display: block !important;
-} */
 .nice-select::after {
 	border-bottom: 2px solid #999;
 	border-right: 2px solid #999;
@@ -715,8 +713,8 @@ label {
 	font-family: inherit;
 	font-size: 14px;
 	font-weight: normal;
-	height: 42px;
-	line-height: 28px;
+	height: 50px;
+	line-height: 36px;
 	outline: none;
 	padding-left: 18px;
 	padding-right: 30px;
@@ -730,4 +728,15 @@ label {
 	user-select: none;
 	white-space: nowrap;
 	width: 100%;
+	/* padding: 12px 0px; */
+}
+.contactForm button {
+	position: absolute;
+	width: 68%;
+	left: 16%;
+	background-color: #fb414e;
+	color: #fff;
+	padding: 12px 0px;
+	border-radius: 0;
+	margin: 26px 0px;
 }
