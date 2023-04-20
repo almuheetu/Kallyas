@@ -256,34 +256,37 @@ label {
 	transition: all 0.3s ease 0s;
 	color: #fff;
 }
+
 .my-btn-2 {
-    background: transparent;
-    border: 2px solid #fb414e;
-    cursor: pointer;
-    display: inline-block;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1;
-    padding: 16px 45px;
-    text-align: center;
-    /* text-transform: uppercase; */
-    transition: all 0.3s ease 0s;
-    color: #fff;
+	background: transparent;
+	border: 2px solid #fb414e;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 1;
+	padding: 16px 45px;
+	text-align: center;
+	/* text-transform: uppercase; */
+	transition: all 0.3s ease 0s;
+	color: #fff;
 }
+
 .my-btn-3 {
-    background: transparent;
-    border: 2px solid #fff;
-    cursor: pointer;
-    display: inline-block;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1;
-    padding: 16px 45px;
-    text-align: center;
-    /* text-transform: uppercase; */
-    transition: all 0.3s ease 0s;
-    color: #fff;
+	background: transparent;
+	border: 2px solid #fff;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 1;
+	padding: 16px 45px;
+	text-align: center;
+	/* text-transform: uppercase; */
+	transition: all 0.3s ease 0s;
+	color: #fff;
 }
+
 .my-btn-4 {
 	background: transparent;
 	border: 2px solid #333;
@@ -299,6 +302,7 @@ label {
 	color: #333;
 	margin-top: 20px;
 }
+
 .newsletter-btn {
 	background: #fbba42;
 	border-color: #fbba42;
@@ -312,6 +316,7 @@ label {
 	text-transform: uppercase;
 	color: #000;
 }
+
 .slider-btn-1 {
 	background: #2f3440;
 	border-color: #000;
@@ -341,18 +346,22 @@ label {
 	background: #fb414e;
 	color: #fff;
 }
+
 .my-btn-2:hover {
 	background: #fb414e;
 	color: #fff;
 }
+
 .my-btn-3:hover {
 	background: #fb414e;
 	color: #fff;
 }
+
 .my-btn-4:hover {
 	background: #fb414e;
 	color: #333;
 }
+
 .my-btn-black {
 	background: #2f3440;
 	border-radius: 30px;
@@ -373,7 +382,7 @@ label {
 	background: #fff;
 }
 
-.product-filder > #select {
+.product-filder>#select {
 	border: 1px solid #d6d6d6;
 }
 
@@ -454,49 +463,61 @@ label {
 	opacity: 0.9;
 	text-align: center;
 }
-.sticky nav > ul li a {
+
+.sticky nav>ul li a {
 	color: #000;
 	font-size: 15px;
 }
-.sticky nav > ul li:hover a {
+
+.sticky nav>ul li:hover a {
 	color: #fbba42;
 }
+
 /* sticky css end here */
 
 /*---HEADER CSS START HERE---*/
 
-#header{background-image: url(../img/slider.png);}
+#header {
+	background-image: url(../img/slider.png);
+}
 
 .navbar-collapse {
 	flex-grow: 0;
 }
+
 .menu ul li {
 	margin: 0 19px;
 }
+
 .menu ul li a {
 	color: #fff !important;
 	font-size: 16px;
 	font-weight: 400;
 }
+
 .container-fluid {
-    margin-top: 50px;
+	margin-top: 50px;
 }
+
 .banner-text h1 {
 	font-size: 60px;
 	color: #fff;
 	font-weight: bold;
 }
+
 .banner-text h1 {
 	font-size: 60px;
 	color: #fff;
 	font-weight: bold;
 	margin-bottom: 45px;
 }
+
 .banner-text p {
-    color: #d2d2d4;
-    font-size: 16px;
-    margin-bottom: 45px;
+	color: #d2d2d4;
+	font-size: 16px;
+	margin-bottom: 45px;
 }
+
 /* #header {
     position: relative;
 }
@@ -513,80 +534,94 @@ label {
 
 
 /* serviceShort */
-.serviceShort-area{
+.serviceShort-area {
 	margin-top: -80px;
 	position: relative;
 }
+
 .serviceShort-item {
 	background-color: #fb414e;
 	padding: 60px 50px 50px 50px;
 	color: #fff;
 }
-.serviceShort-item h5{
+
+.serviceShort-item h5 {
 	margin-top: 35px;
 	color: #fff;
 }
-.serviceShort-item h5::after{
+
+.serviceShort-item h5::after {
 	content: " ";
 	width: 50px;
 	height: 2px;
 	display: block;
 	position: relative;
 	background-color: #fff;
-	margin:25px 0px;
+	margin: 25px 0px;
 }
-.serviceShort-item p{
+
+.serviceShort-item p {
 	color: #fff;
 }
+
 .item {
 	background-color: #202b30;
 }
 
 /* businessPlan-area */
-.businessPlan{
-	margin:60px;
+.businessPlan {
+	margin: 60px;
 	background-color: #202b30;
 }
-.businessPlan-area{
+
+.businessPlan-area {
 	padding: 100px 0;
 }
+
 .businessPlanContent h2 {
 	color: #fff;
 	font-size: 42px;
 }
+
 .businessPlanContent p {
 	color: #e1e3e3;
 	margin: 45px 0;
 }
+
 .image {
 	text-align: end;
 }
 
 /* service-area */
 
-.service{
+.service {
 	margin: 50px 60px 50px 60px;
 	background-color: #f8f8f8;
 	padding: 120px 0;
 }
+
 .content h6 {
 	font-size: 20px;
 	color: #1f1f1f;
 	font-weight: 500;
-  }
-  .content p {
+}
+
+.content p {
 	color: #838383;
-  }
-  .serLeft1{
+}
+
+.serLeft1 {
 	margin-bottom: 50px;
-  }
-  .serRight h3 {
+}
+
+.serRight h3 {
 	font-size: 43px;
 	line-height: 50px;
 	color: #1f1f1f;
 	font-weight: 700;
 	margin-bottom: 45px;
 }
+
 .tag {
 	margin-bottom: 25px;
 }
@@ -595,33 +630,39 @@ label {
 
 .owlMix {
 	margin: 90px 50px 50px 60px;
-}          
+}
+
 .owlMixMenu ul li {
 	list-style: none;
 	display: inline-block;
 	margin: 0px 50px 20px 0px;
 }
-.owlMixMenu ul li a{
+
+.owlMixMenu ul li a {
 	text-decoration: none;
 	text-transform: uppercase;
 	color: #a4a4a4;
 }
+
 .owlMixMenu {
 	padding-bottom: 25px;
 }
+
 .image-area img {
 	margin-bottom: 15px;
 }
 
 /* clients */
 
-.clients{
+.clients {
 	margin: 50px 0px;
 }
+
 .clientsLeft h2 {
 	font-size: 43px;
 	font-weight: 700;
 }
+
 .clientsLeft p {
 	margin: 33px 0px;
 }
@@ -630,36 +671,42 @@ label {
 /* Handcraft section */
 
 
-.handcraft{
+.handcraft {
 	margin: 100px 60px 50px 60px;
 	background-image: url(../img/Assignment.png);
 	padding: 100px 0px;
 }
+
 .handcarftTop h2 {
 	font-size: 48px;
 	color: #1f1f1f;
 }
+
 .handcarftTop p {
 	margin: 30px 0px;
 }
-.handcarftBottom h5{
+
+.handcarftBottom h5 {
 	margin: 15px 0px;
 }
 
 /* contact */
-.contact{
+.contact {
 	margin: 100px 60px 50px 60px;
 }
+
 .contactContent {
 	text-align: right;
 	padding-left: 20px;
 	margin-right: 90px;
 }
+
 .contactContent h2 {
 	font-size: 48px;
 	margin-bottom: 30px;
 	font-weight: bold;
 }
+
 .contactContent p {
 	margin: 30px 0px;
 }
@@ -669,12 +716,14 @@ label {
 	border-color: #000;
 	padding: 12px 20px;
 }
+
 .contactForm select {
 	border-radius: 0;
 	border-color: #000;
 	display: block;
 }
-.contactForm textarea{
+
+.contactForm textarea {
 	border-radius: 0;
 	border-color: #000;
 }
@@ -700,6 +749,7 @@ label {
 	transition: all 0.15s ease-in-out;
 	width: 5px;
 }
+
 .nice-select {
 	-webkit-tap-highlight-color: transparent;
 	background-color: #fff;
@@ -730,6 +780,7 @@ label {
 	width: 100%;
 	/* padding: 12px 0px; */
 }
+
 .contactForm button {
 	position: absolute;
 	width: 68%;
