@@ -822,7 +822,7 @@ label {
 .social ul li {
 	list-style: none;
 	display: inline-block;
-	margin: 0px 50px 20px 0px;
+	margin: 0px 25px 0px 0px;
 }
 
 .social ul li a {
@@ -833,14 +833,30 @@ label {
 .footerMenu ul li {
 	list-style: none;
 	display: inline-block;
-	margin: 0px 50px 20px 0px;
+	margin: 0px 37px 20px 0px;
 }
 
 .footerMenu ul li a {
 	text-decoration: none;
-	text-transform: uppercase;
-	color: #a4a4a4;
+	color: #fff;
+	font-weight: bold;
+	font-size: 16px;
 }
-.footerContent{
-	margin: 50px 0px;
+.footerContent {
+	margin: 85px 0px;
+}
+.footerContent p {
+	color: #fff;
+	font-size: 16px;
+}
+.bold {
+	font-weight: bold;
+}
+.bold {
+	font-weight: bold;
+	color: #e1e3e3 !important;
+}
+.subscribe p {
+	text-align: right;
+	color: #fff;
 }
