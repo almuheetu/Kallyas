@@ -833,7 +833,7 @@ label {
 .footerMenu ul li {
 	list-style: none;
 	display: inline-block;
-	margin: 0px 37px 20px 0px;
+	margin: 0px 45px 20px 0px;
 }
 
 .footerMenu ul li a {
@@ -859,4 +859,11 @@ label {
 .subscribe p {
 	text-align: right;
 	color: #fff;
+	font-weight: 600;
+}
+.footerMenu {
+	margin-bottom: 85px;
+}
+.footerMenu ul li:last-child {
+	margin-right: 0;
 }
