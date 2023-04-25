@@ -55,12 +55,94 @@
     .footerCopy p {
         margin-top: 55px;
     }
+    .handcraft {
+        margin: 100px 60px 50px 60px;
+        background-image: url(../img/Assignment.png);
+        padding: 100px 0px;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
 
 }
 
 /* LG Device :992px. */
 @media (min-width: 992px) and (max-width: 1199px) {
-
+    .banner-text h1 {
+        font-size: 45px;
+        margin-bottom: 25px;
+    }
+    .mt-90 {
+        margin-top: 40px;
+    }
+    .businessPlanContent h2 {
+        font-size: 30px;
+    }
+    .businessPlanContent p {
+        color: #e1e3e3;
+        margin: 25px 0;
+        font-size: 14px;
+    }
+    .carousel-item img {
+        width: 100%;
+    }
+    .width img {
+        width: 100%;
+    }
+    .businessPlan-area {
+        padding: 68px 0;
+    }
+    .service {
+        padding: 60px 0;
+    }
+    .immg img {
+        width: 100%;
+    }
+    .clientsLeft h2 {
+        font-size: 35px;
+    }
+    .clients-img img {
+        width: 100%;
+    }
+    .clientsLeft p {
+        margin: 10px 0px;
+    }
+    .clients {
+        margin: 50px 40px;
+    }
+    .handcraft {
+        margin: 65px 60px 50px 60px;
+        padding: 50px 0px;
+    }
+    .handcarftTop h2 {
+        font-size: 33px;
+    }
+    .serRight h3 {
+        font-size: 32px;
+    }
+    .contactContent {
+        margin-right: 30px;
+    }
+    .contactContent h2 {
+        font-size: 34px;
+    }
+    .mt-120 {
+        margin-top: 100px;
+    }
+    .footer {
+        padding-top: 55px;
+    }
+    .footerMenu ul li {
+        margin: 0px 9px 0px 0px;
+    }
+    .footerMenu {
+        margin-bottom: 45px;
+    }
+    .footerContent {
+        margin: 50px 0px;
+    }
+    .footerCopy p {
+        margin-top: 72px;
+    }
 
 }
 
