@@ -155,6 +155,22 @@
     .serviceShort-item {
         padding: 30px 20px 20px 20px;
     }
+    .businessPlanContent h2 {
+        font-size: 23px;
+    }
+    .businessPlanContent h2 {
+        color: #fff;
+        font-size: 23px;
+    }
+    .width img {
+        width: 100%;
+    }
+    .businessPlan-area {
+        padding: 60px 0;
+    }
+    .businessPlanContent p {
+        margin: 20px 0;
+    }
 
 }
 
