@@ -905,4 +905,7 @@ label {
 .navbar-nav {
 	padding: 20px 0px;
 }
+.subscribe p {
+	text-align: right !important;
+}
 

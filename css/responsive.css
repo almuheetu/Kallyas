@@ -368,6 +368,25 @@
     .footerContent {
         margin: 50px 0px;
     }
+    .footerMenu {
+        text-align: center;
+        margin-top: 40px;
+    }
+    .footerMenu ul li {
+        list-style: none;
+        display: inline-block;
+        margin: 0px 25px 20px 0px;
+    }
+    .footerMenu {
+        margin-bottom: 50px;
+    }
+    .subscribe p {
+        text-align: center !important;
+    }
+    .footerCopy p {
+        margin-top: 50px;
+        text-align: center;;
+    }
 }
     
     /* SM Small Device :550px. */
