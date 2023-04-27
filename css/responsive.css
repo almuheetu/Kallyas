@@ -211,6 +211,13 @@
     .handcarftTop h2 {
         font-size: 27px;
     }
+    .contactContent h2 {
+        font-size: 21px;
+        margin-bottom: 20px;
+    }
+    .contactContent {
+        margin-right: 40px;
+    }
 
 }
 
