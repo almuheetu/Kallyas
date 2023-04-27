@@ -171,6 +171,37 @@
     .businessPlanContent p {
         margin: 20px 0;
     }
+    .serRight h3 {
+        font-size: 25px;
+        line-height: 40px;
+        margin-bottom: 15px;
+    }
+    .serLeft1 {
+        margin-bottom: 20px;
+    }
+    .service {
+        margin: 41px 50px 41px 50px;
+        padding: 40px 0;
+    }
+    .owlMixMenu ul li {
+        margin: 0px 40px 10px 0px;
+    }
+    .clientsLeft h2 {
+        font-size: 30px;
+    }
+    .clients-img img {
+        width: 100%;
+    }
+    .clientsLeft p {
+        margin: 10px 0px;
+    }
+    .my-btn-4 {
+        margin-top: 0px;
+    }
+    p {
+        line-height: 26px;
+        margin-bottom: 15px;
+    }
 
 }
 
