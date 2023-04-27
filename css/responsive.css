@@ -202,6 +202,15 @@
         line-height: 26px;
         margin-bottom: 15px;
     }
+    .handcraft {
+        margin: 100px 60px 50px 60px;
+        background-image: url(../img/Assignment.png);
+        padding: 50px 0px;
+        background-size: contain;
+    }
+    .handcarftTop h2 {
+        font-size: 27px;
+    }
 
 }
 
