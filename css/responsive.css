@@ -342,6 +342,32 @@
     .clients-img img {
         width: 100%;
     }
+    .handcarftTop h2 {
+        font-size: 25px;
+    }
+    .handcraft {
+        padding: 50px 0px;
+    }
+    .contactContent {
+        text-align: center;
+        padding-left: 0px;
+        margin-right: 0px;
+    }
+    .contactContent h2 {
+        font-size: 25px;
+    }
+    .contact {
+        margin: 50px 60px 50px 60px;
+    }
+    .footer-Left {
+        text-align: center;
+    }
+    .footer {
+        padding-top: 50px;
+    }
+    .footerContent {
+        margin: 50px 0px;
+    }
 }
     
     /* SM Small Device :550px. */
