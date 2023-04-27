@@ -832,9 +832,8 @@ label {
 .footerMenu ul li {
 	list-style: none;
 	display: inline-block;
-	margin: 0px 45px 20px 0px;
+	margin: 0px 51px 20px 0px;
 }
-
 .footerMenu ul li a {
 	text-decoration: none;
 	color: #fff;
