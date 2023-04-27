@@ -143,6 +143,12 @@
     .footerCopy p {
         margin-top: 72px;
     }
+    .footerMenu ul li a {
+        font-size: 14px;
+    }
+    .footerMenu ul li {
+        margin: 0px 18px 0px 0px;
+    }
 
 }
 
@@ -150,7 +156,7 @@
 /* MD Device :768px. */
 @media (min-width: 768px) and (max-width: 991px) {
     .banner-text h1 {
-        font-size: 42px;
+        font-size: 40px;
     }
     .serviceShort-item {
         padding: 30px 20px 20px 20px;
@@ -187,7 +193,7 @@
         margin: 0px 40px 10px 0px;
     }
     .clientsLeft h2 {
-        font-size: 30px;
+        font-size: 24px;
     }
     .clients-img img {
         width: 100%;
@@ -227,6 +233,38 @@
     .footerContent p {
         font-size: 15px;
     }
+    .footerMenu {
+        margin-bottom: 25px;
+    }
+    .footerCopy p {
+        margin-top: 40px;
+        font-size: 11px;
+    }
+    .footerMenu ul li {
+        list-style: none;
+        display: inline-block;
+        margin: 0px 45px 20px 0px;
+    }
+    .carousel-item img {
+        width: 100%;
+    }
+    .serRight h3 {
+        font-size: 24px;
+    }
+    .banner-text p {
+        font-size: 14px;
+        margin-bottom: 40px;
+    }
+    .immg img {
+        width: 100%;
+    }
+    .owlMixMenu ul li {
+        margin: 0px 30px 10px 0px;
+    }
+    .contactContent p {
+        margin: 5px 0px;
+    }
+    
 
 }
 
