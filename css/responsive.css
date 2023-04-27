@@ -218,6 +218,15 @@
     .contactContent {
         margin-right: 40px;
     }
+    .footer {
+        padding-top: 50px;
+    }
+    .footerContent {
+        margin: 60px 0px;
+    }
+    .footerContent p {
+        font-size: 15px;
+    }
 
 }
 
