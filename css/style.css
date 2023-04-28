@@ -491,7 +491,7 @@ label {
 .menu ul li a {
 	color: #fff !important;
 	font-size: 16px;
-	font-weight: 400;
+	font-weight: bold;
 }
 
 .container-fluid {
